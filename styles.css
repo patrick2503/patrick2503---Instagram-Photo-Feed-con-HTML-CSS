@@ -1,0 +1,43 @@
+body{
+    background: black;  
+    margin:0;
+}
+
+header h1{
+    background: white; 
+    text-align: center;
+}
+.post{
+    background:white;
+    width:500px;
+    height: 550px;
+    margin:auto;
+    margin-top: 20px !important;
+    margin-bottom: 20px !important;
+}
+
+.titulo {
+    width: 90%;
+    display: inline-block;
+}
+.fecha {
+    width: 10%;
+    display: inline-block;
+}
+img{
+    width: 500px;
+    height: 400px; 
+}
+p{
+   text-align: center;
+   padding: 3px;
+} 
+.all{
+    margin-left: 250px;
+    margin-right: 250px;
+    background-color: rgb(207, 245, 207) ;
+}
+
+div.post h2{
+    padding: 10px;
+}
